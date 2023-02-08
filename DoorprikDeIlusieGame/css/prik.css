@@ -1,0 +1,16 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: Calibri, sans;
+}
+
+.main {
+	width: 850px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#gameCanvas {
+	background-color: aliceblue;
+	border: 1px solid black;
+}
